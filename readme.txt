@@ -26,7 +26,7 @@ Data:
 
 Dependency:
     The code need the Yael library for k-means clustring and nearest neighbor search, 
-    which can be downloaded at: 
+    which can be downloaded at: https://github.com/jackculpepper/yael
     
 Running:
     In matlab, run:
